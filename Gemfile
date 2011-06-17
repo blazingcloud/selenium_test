@@ -9,9 +9,9 @@ gem 'sqlite3'
 gem 'cucumber-rails'
 gem 'capybara'
 gem 'database_cleaner'
-#gem 'ruby-debug'
-#gem 'ruby-debug-ide'
-
+gem 'ruby-debug'
+gem 'ruby-debug-ide'
+gem 'linecache', '=0.43'
 
 # Use unicorn as the web server
 # gem 'unicorn'
